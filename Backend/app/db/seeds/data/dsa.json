@@ -1,0 +1,588 @@
+{
+  "code": "dsa",
+  "name": "Data Structures & Algorithms",
+  "description": "Complete interview preparation roadmap",
+  "icon": "Brain",
+  "color": "#2563EB",
+  "modules": [
+  {
+    "title": "Learn the Basics",
+    "order": 1,
+    "description": "Build the programming and mathematical foundation required for DSA interviews.",
+    "topics": [
+      {
+        "title": "Basic Mathematics",
+        "order": 1,
+        "description": "Mathematical concepts used in coding interviews.",
+        "tasks": [
+          {
+            "title": "Learn Basic Mathematics Theory",
+            "type": "theory",
+            "estimated_minutes": 30,
+            "order": 1,
+            "resources": [
+              {
+                "title": "Basic Maths for DSA - Striver",
+                "provider": "youtube",
+                "type": "video",
+                "url": "https://www.youtube.com/results?search_query=striver+basic+maths+dsa"
+              }
+            ]
+          },
+          {
+            "title": "Solve Count Digits",
+            "type": "practice",
+            "difficulty": "easy",
+            "estimated_minutes": 20,
+            "order": 2,
+            "resources": [
+              {
+                "title": "Count Digits",
+                "provider": "gfg",
+                "type": "problem",
+                "url": "https://www.geeksforgeeks.org/problems/count-digits5716/1"
+              }
+            ]
+          },
+          {
+            "title": "Solve Reverse Integer",
+            "type": "practice",
+            "difficulty": "easy",
+            "estimated_minutes": 20,
+            "order": 3,
+            "resources": [
+              {
+                "title": "Reverse Integer",
+                "provider": "leetcode",
+                "type": "problem",
+                "url": "https://leetcode.com/problems/reverse-integer/"
+              }
+            ]
+          },
+          {
+            "title": "Solve Palindrome Number",
+            "type": "practice",
+            "difficulty": "easy",
+            "estimated_minutes": 20,
+            "order": 4,
+            "resources": [
+              {
+                "title": "Palindrome Number",
+                "provider": "leetcode",
+                "type": "problem",
+                "url": "https://leetcode.com/problems/palindrome-number/"
+              }
+            ]
+          },
+          {
+            "title": "Solve GCD / HCF",
+            "type": "practice",
+            "difficulty": "easy",
+            "estimated_minutes": 25,
+            "order": 5,
+            "resources": [
+              {
+                "title": "GCD of Two Numbers",
+                "provider": "gfg",
+                "type": "problem",
+                "url": "https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1"
+              }
+            ]
+          },
+          {
+            "title": "Revision",
+            "type": "revision",
+            "estimated_minutes": 20,
+            "order": 6,
+            "resources": []
+          }
+        ]
+      },
+      {
+        "title": "Time and Space Complexity",
+        "order": 2,
+        "description": "Learn complexity analysis and asymptotic notation.",
+        "tasks": [
+          {
+            "title": "Learn Time Complexity",
+            "type": "theory",
+            "estimated_minutes": 45,
+            "order": 1,
+            "resources": [
+              {
+                "title": "Time Complexity - Striver",
+                "provider": "youtube",
+                "type": "video",
+                "url": "https://www.youtube.com/results?search_query=striver+time+complexity"
+              }
+            ]
+          },
+          {
+            "title": "Solve Time Complexity Quiz",
+            "type": "quiz",
+            "estimated_minutes": 30,
+            "order": 2,
+            "resources": []
+          },
+          {
+            "title": "Revision",
+            "type": "revision",
+            "estimated_minutes": 15,
+            "order": 3,
+            "resources": []
+          }
+        ]
+      },
+      {
+        "title": "Python Collections",
+        "order": 3,
+        "description": "Master Python collections commonly used in interviews.",
+        "tasks": [
+          {
+            "title": "Learn list, tuple, set and dict",
+            "type": "theory",
+            "estimated_minutes": 45,
+            "order": 1,
+            "resources": [
+              {
+                "title": "Python Collections",
+                "provider": "youtube",
+                "type": "video",
+                "url": "https://www.youtube.com/results?search_query=python+collections+interview"
+              }
+            ]
+          },
+          {
+            "title": "Practice Collections Problems",
+            "type": "practice",
+            "difficulty": "easy",
+            "estimated_minutes": 45,
+            "order": 2,
+            "resources": []
+          },
+          {
+            "title": "Revision",
+            "type": "revision",
+            "estimated_minutes": 20,
+            "order": 3,
+            "resources": []
+          }
+        ]
+      },
+      {
+        "title": "Basic Recursion",
+        "order": 4,
+        "description": "Understand recursion fundamentals.",
+        "tasks": [
+          {
+            "title": "Learn Recursion Theory",
+            "type": "theory",
+            "estimated_minutes": 40,
+            "order": 1,
+            "resources": [
+              {
+                "title": "Recursion - Striver",
+                "provider": "youtube",
+                "type": "video",
+                "url": "https://www.youtube.com/results?search_query=striver+recursion"
+              }
+            ]
+          },
+          {
+            "title": "Print Numbers Using Recursion",
+            "type": "practice",
+            "difficulty": "easy",
+            "estimated_minutes": 20,
+            "order": 2,
+            "resources": []
+          },
+          {
+            "title": "Factorial Using Recursion",
+            "type": "practice",
+            "difficulty": "easy",
+            "estimated_minutes": 20,
+            "order": 3,
+            "resources": []
+          },
+          {
+            "title": "Revision",
+            "type": "revision",
+            "estimated_minutes": 20,
+            "order": 4,
+            "resources": []
+          }
+        ]
+      },
+      {
+        "title": "Hashing",
+        "order": 5,
+        "description": "Learn frequency counting and hashing techniques.",
+        "tasks": [
+          {
+            "title": "Learn Hashing Theory",
+            "type": "theory",
+            "estimated_minutes": 35,
+            "order": 1,
+            "resources": [
+              {
+                "title": "Hashing - Striver",
+                "provider": "youtube",
+                "type": "video",
+                "url": "https://www.youtube.com/results?search_query=striver+hashing"
+              }
+            ]
+          },
+          {
+            "title": "Count Frequencies",
+            "type": "practice",
+            "difficulty": "easy",
+            "estimated_minutes": 30,
+            "order": 2,
+            "resources": []
+          },
+          {
+            "title": "Find Highest/Lowest Frequency Element",
+            "type": "practice",
+            "difficulty": "easy",
+            "estimated_minutes": 30,
+            "order": 3,
+            "resources": []
+          },
+          {
+            "title": "Revision",
+            "type": "revision",
+            "estimated_minutes": 20,
+            "order": 4,
+            "resources": []
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+  "title": "Sorting",
+  "order": 2,
+  "description": "Learn fundamental sorting algorithms, recursive implementations, and common interview applications of sorting.",
+  "topics": [
+    {
+      "title": "Selection Sort",
+      "order": 1,
+      "description": "Understand the selection sort algorithm and its implementation.",
+      "tasks": [
+        {
+          "title": "Learn Selection Sort Theory",
+          "type": "theory",
+          "estimated_minutes": 20,
+          "order": 1,
+          "resources": [
+            {
+              "title": "Selection Sort - Striver",
+              "provider": "youtube",
+              "type": "video",
+              "url": "https://www.youtube.com/results?search_query=striver+selection+sort"
+            }
+          ]
+        },
+        {
+          "title": "Implement Selection Sort",
+          "type": "practice",
+          "difficulty": "easy",
+          "estimated_minutes": 30,
+          "order": 2,
+          "resources": [
+            {
+              "title": "Selection Sort - GFG",
+              "provider": "gfg",
+              "type": "problem",
+              "url": "https://www.geeksforgeeks.org/problems/selection-sort/1"
+            }
+          ]
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 15,
+          "order": 3,
+          "resources": []
+        }
+      ]
+    },
+    {
+      "title": "Bubble Sort",
+      "order": 2,
+      "description": "Learn bubble sort and optimization using early stopping.",
+      "tasks": [
+        {
+          "title": "Learn Bubble Sort Theory",
+          "type": "theory",
+          "estimated_minutes": 20,
+          "order": 1,
+          "resources": [
+            {
+              "title": "Bubble Sort - Striver",
+              "provider": "youtube",
+              "type": "video",
+              "url": "https://www.youtube.com/results?search_query=striver+bubble+sort"
+            }
+          ]
+        },
+        {
+          "title": "Implement Bubble Sort",
+          "type": "practice",
+          "difficulty": "easy",
+          "estimated_minutes": 30,
+          "order": 2,
+          "resources": [
+            {
+              "title": "Bubble Sort - GFG",
+              "provider": "gfg",
+              "type": "problem",
+              "url": "https://www.geeksforgeeks.org/problems/bubble-sort/1"
+            }
+          ]
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 15,
+          "order": 3,
+          "resources": []
+        }
+      ]
+    },
+    {
+      "title": "Insertion Sort",
+      "order": 3,
+      "description": "Learn insertion sort and when it performs well.",
+      "tasks": [
+        {
+          "title": "Learn Insertion Sort Theory",
+          "type": "theory",
+          "estimated_minutes": 20,
+          "order": 1,
+          "resources": [
+            {
+              "title": "Insertion Sort - Striver",
+              "provider": "youtube",
+              "type": "video",
+              "url": "https://www.youtube.com/results?search_query=striver+insertion+sort"
+            }
+          ]
+        },
+        {
+          "title": "Implement Insertion Sort",
+          "type": "practice",
+          "difficulty": "easy",
+          "estimated_minutes": 30,
+          "order": 2,
+          "resources": [
+            {
+              "title": "Insertion Sort - GFG",
+              "provider": "gfg",
+              "type": "problem",
+              "url": "https://www.geeksforgeeks.org/problems/insertion-sort/1"
+            }
+          ]
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 15,
+          "order": 3,
+          "resources": []
+        }
+      ]
+    },
+    {
+      "title": "Merge Sort",
+      "order": 4,
+      "description": "Understand divide and conquer through merge sort.",
+      "tasks": [
+        {
+          "title": "Learn Merge Sort Theory",
+          "type": "theory",
+          "estimated_minutes": 35,
+          "order": 1,
+          "resources": [
+            {
+              "title": "Merge Sort - Striver",
+              "provider": "youtube",
+              "type": "video",
+              "url": "https://www.youtube.com/results?search_query=striver+merge+sort"
+            }
+          ]
+        },
+        {
+          "title": "Implement Merge Sort",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 45,
+          "order": 2,
+          "resources": [
+            {
+              "title": "Merge Sort - GFG",
+              "provider": "gfg",
+              "type": "problem",
+              "url": "https://www.geeksforgeeks.org/problems/merge-sort/1"
+            }
+          ]
+        },
+        {
+          "title": "Count Inversions using Merge Sort",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 45,
+          "order": 3,
+          "resources": [
+            {
+              "title": "Count Inversions",
+              "provider": "gfg",
+              "type": "problem",
+              "url": "https://www.geeksforgeeks.org/problems/inversion-of-array/1"
+            }
+          ]
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 20,
+          "order": 4,
+          "resources": []
+        }
+      ]
+    },
+    {
+      "title": "Quick Sort",
+      "order": 5,
+      "description": "Learn partitioning and quick sort implementation.",
+      "tasks": [
+        {
+          "title": "Learn Quick Sort Theory",
+          "type": "theory",
+          "estimated_minutes": 35,
+          "order": 1,
+          "resources": [
+            {
+              "title": "Quick Sort - Striver",
+              "provider": "youtube",
+              "type": "video",
+              "url": "https://www.youtube.com/results?search_query=striver+quick+sort"
+            }
+          ]
+        },
+        {
+          "title": "Implement Quick Sort",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 45,
+          "order": 2,
+          "resources": [
+            {
+              "title": "Quick Sort - GFG",
+              "provider": "gfg",
+              "type": "problem",
+              "url": "https://www.geeksforgeeks.org/problems/quick-sort/1"
+            }
+          ]
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 20,
+          "order": 3,
+          "resources": []
+        }
+      ]
+    },
+    {
+      "title": "Recursive Bubble Sort",
+      "order": 6,
+      "description": "Implement bubble sort recursively.",
+      "tasks": [
+        {
+          "title": "Implement Recursive Bubble Sort",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 30,
+          "order": 1,
+          "resources": []
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 15,
+          "order": 2,
+          "resources": []
+        }
+      ]
+    },
+    {
+      "title": "Recursive Insertion Sort",
+      "order": 7,
+      "description": "Implement insertion sort recursively.",
+      "tasks": [
+        {
+          "title": "Implement Recursive Insertion Sort",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 30,
+          "order": 1,
+          "resources": []
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 15,
+          "order": 2,
+          "resources": []
+        }
+      ]
+    },
+    {
+      "title": "Sorting Applications",
+      "order": 8,
+      "description": "Understand where sorting is used in interview problems.",
+      "tasks": [
+        {
+          "title": "When to Use Sorting",
+          "type": "theory",
+          "estimated_minutes": 25,
+          "order": 1,
+          "resources": [
+            {
+              "title": "Sorting Patterns",
+              "provider": "youtube",
+              "type": "video",
+              "url": "https://www.youtube.com/results?search_query=sorting+patterns+interview"
+            }
+          ]
+        },
+        {
+          "title": "Solve Sort an Array",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 30,
+          "order": 2,
+          "resources": [
+            {
+              "title": "Sort an Array",
+              "provider": "leetcode",
+              "type": "problem",
+              "url": "https://leetcode.com/problems/sort-an-array/"
+            }
+          ]
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 20,
+          "order": 3,
+          "resources": []
+        }
+      ]
+    }
+  ]
+}
+]
+}

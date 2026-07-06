@@ -1,6 +1,7 @@
 from sqlalchemy import ForeignKey, Integer, String
 from sqlalchemy.orm import Mapped, mapped_column, relationship
-
+from sqlalchemy import Enum
+from app.models.enums import Difficulty, TaskStatus, TaskType
 from app.db.base import Base
 from app.models.mixins import TimestampMixin
 
@@ -26,10 +27,10 @@ class Task(Base, TimestampMixin):
         nullable=True,
     )
 
-    status: Mapped[str] = mapped_column(
-        String(20),
+    status: Mapped[TaskStatus] = mapped_column(
+        Enum(TaskStatus),
         nullable=False,
-        default="pending",
+        default=TaskStatus.PENDING,
         index=True,
     )
 
@@ -47,4 +48,21 @@ class Task(Base, TimestampMixin):
     topic = relationship(
         "Topic",
         back_populates="tasks",
+    )
+
+    resources = relationship(
+        "Resource",
+        back_populates="task",
+        cascade="all, delete-orphan",
+    )
+
+    type: Mapped[TaskType] = mapped_column(
+        Enum(TaskType),
+        nullable=False,
+        default=TaskType.THEORY,
+    )
+
+    difficulty: Mapped[Difficulty | None] = mapped_column(
+        Enum(Difficulty),
+        nullable=True,
     )
