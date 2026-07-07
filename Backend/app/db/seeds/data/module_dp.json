@@ -1,0 +1,623 @@
+{
+  "title": "Dynamic Programming",
+  "description": "Master dynamic programming techniques including memoization, tabulation, space optimization, subsequences, strings, stocks, and partition DP.",
+  "order": 15,
+  "topics": [
+    {
+      "title": "DP Fundamentals",
+      "description": "Learn the core concepts of dynamic programming and solve introductory DP problems.",
+      "order": 1,
+      "tasks": [
+        {
+          "title": "Learn Dynamic Programming Theory",
+          "type": "theory",
+          "estimated_minutes": 60,
+          "order": 1
+        },
+        {
+          "title": "Watch DP Introduction",
+          "type": "video",
+          "estimated_minutes": 70,
+          "order": 2
+        },
+        {
+          "title": "Climbing Stairs",
+          "type": "practice",
+          "difficulty": "easy",
+          "estimated_minutes": 25,
+          "order": 3
+        },
+        {
+          "title": "Frog Jump",
+          "type": "practice",
+          "difficulty": "easy",
+          "estimated_minutes": 35,
+          "order": 4
+        },
+        {
+          "title": "Frog Jump with K Distances",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 40,
+          "order": 5
+        },
+        {
+          "title": "House Robber",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 35,
+          "order": 6
+        },
+        {
+          "title": "House Robber II",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 40,
+          "order": 7
+        },
+        {
+          "title": "Ninja's Training",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 45,
+          "order": 8
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 30,
+          "order": 9
+        }
+      ],
+      "resources": [
+        {
+          "title": "Striver Dynamic Programming Playlist",
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/@takeUforward",
+          "order": 1
+        },
+        {
+          "title": "Dynamic Programming Problems",
+          "type": "problem",
+          "provider": "leetcode",
+          "url": "https://leetcode.com/tag/dynamic-programming/",
+          "order": 2
+        }
+      ]
+    },
+    {
+  "title": "2D Grid Dynamic Programming",
+  "description": "Learn dynamic programming on grids using recursion, memoization, tabulation, and space optimization.",
+  "order": 2,
+  "tasks": [
+    {
+      "title": "Learn Grid DP",
+      "type": "theory",
+      "estimated_minutes": 50,
+      "order": 1
+    },
+    {
+      "title": "Watch Grid DP Problems",
+      "type": "video",
+      "estimated_minutes": 60,
+      "order": 2
+    },
+    {
+      "title": "Unique Paths",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 3
+    },
+    {
+      "title": "Unique Paths II",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 4
+    },
+    {
+      "title": "Minimum Path Sum",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 5
+    },
+    {
+      "title": "Triangle",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 6
+    },
+    {
+      "title": "Minimum Falling Path Sum",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 7
+    },
+    {
+      "title": "Cherry Pickup II",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 60,
+      "order": 8
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 9
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Dynamic Programming Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "Dynamic Programming Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/dynamic-programming/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "Subsequence Dynamic Programming",
+  "description": "Master include/exclude DP patterns such as knapsack, subset sum, partition, and coin change.",
+  "order": 3,
+  "tasks": [
+    {
+      "title": "Learn Subsequence DP",
+      "type": "theory",
+      "estimated_minutes": 55,
+      "order": 1
+    },
+    {
+      "title": "Watch Subsequence DP Problems",
+      "type": "video",
+      "estimated_minutes": 65,
+      "order": 2
+    },
+    {
+      "title": "Subset Sum Equal to Target",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 3
+    },
+    {
+      "title": "Partition Equal Subset Sum",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 4
+    },
+    {
+      "title": "Partitions with Given Difference",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 5
+    },
+    {
+      "title": "0/1 Knapsack",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 50,
+      "order": 6
+    },
+    {
+      "title": "Minimum Coins",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 7
+    },
+    {
+      "title": "Coin Change II",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 8
+    },
+    {
+      "title": "Target Sum",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 9
+    },
+    {
+      "title": "Unbounded Knapsack",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 10
+    },
+    {
+      "title": "Rod Cutting",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 11
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 12
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Dynamic Programming Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "Dynamic Programming Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/dynamic-programming/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "String Dynamic Programming",
+  "description": "Learn dynamic programming techniques for strings including subsequences, edit distance, and palindrome problems.",
+  "order": 4,
+  "tasks": [
+    {
+      "title": "Learn String DP",
+      "type": "theory",
+      "estimated_minutes": 55,
+      "order": 1
+    },
+    {
+      "title": "Watch String DP Problems",
+      "type": "video",
+      "estimated_minutes": 65,
+      "order": 2
+    },
+    {
+      "title": "Longest Common Subsequence",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 3
+    },
+    {
+      "title": "Print Longest Common Subsequence",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 4
+    },
+    {
+      "title": "Longest Common Substring",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 5
+    },
+    {
+      "title": "Longest Palindromic Subsequence",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 6
+    },
+    {
+      "title": "Minimum Insertions to Make a String Palindrome",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 45,
+      "order": 7
+    },
+    {
+      "title": "Edit Distance",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 50,
+      "order": 8
+    },
+    {
+      "title": "Distinct Subsequences",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 50,
+      "order": 9
+    },
+    {
+      "title": "Wildcard Matching",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 55,
+      "order": 10
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 11
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Dynamic Programming Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "Dynamic Programming Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/dynamic-programming/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "Longest Increasing Subsequence",
+  "description": "Master LIS and related subsequence optimization problems.",
+  "order": 5,
+  "tasks": [
+    {
+      "title": "Learn LIS Pattern",
+      "type": "theory",
+      "estimated_minutes": 45,
+      "order": 1
+    },
+    {
+      "title": "Watch LIS Problems",
+      "type": "video",
+      "estimated_minutes": 55,
+      "order": 2
+    },
+    {
+      "title": "Longest Increasing Subsequence",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 3
+    },
+    {
+      "title": "Print Longest Increasing Subsequence",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 4
+    },
+    {
+      "title": "Largest Divisible Subset",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 5
+    },
+    {
+      "title": "Longest String Chain",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 6
+    },
+    {
+      "title": "Longest Bitonic Subsequence",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 50,
+      "order": 7
+    },
+    {
+      "title": "Number of Longest Increasing Subsequences",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 50,
+      "order": 8
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 9
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Dynamic Programming Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "Dynamic Programming Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/dynamic-programming/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "Stock & Partition Dynamic Programming",
+  "description": "Solve stock trading and partition-based dynamic programming problems.",
+  "order": 6,
+  "tasks": [
+    {
+      "title": "Learn Stock & Partition DP",
+      "type": "theory",
+      "estimated_minutes": 50,
+      "order": 1
+    },
+    {
+      "title": "Watch Stock DP Problems",
+      "type": "video",
+      "estimated_minutes": 60,
+      "order": 2
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock II",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 3
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock III",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 45,
+      "order": 4
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock IV",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 50,
+      "order": 5
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 6
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 7
+    },
+    {
+      "title": "Matrix Chain Multiplication",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 50,
+      "order": 8
+    },
+    {
+      "title": "Burst Balloons",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 60,
+      "order": 9
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 10
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Dynamic Programming Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "Dynamic Programming Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/dynamic-programming/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "Advanced Dynamic Programming",
+  "description": "Master interval, game, and advanced state dynamic programming problems.",
+  "order": 7,
+  "tasks": [
+    {
+      "title": "Learn Advanced DP Patterns",
+      "type": "theory",
+      "estimated_minutes": 50,
+      "order": 1
+    },
+    {
+      "title": "Watch Advanced DP Problems",
+      "type": "video",
+      "estimated_minutes": 60,
+      "order": 2
+    },
+    {
+      "title": "Palindrome Partitioning II",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 50,
+      "order": 3
+    },
+    {
+      "title": "Boolean Parenthesization",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 55,
+      "order": 4
+    },
+    {
+      "title": "Minimum Cost to Cut a Stick",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 55,
+      "order": 5
+    },
+    {
+      "title": "Evaluate Boolean Expression to True",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 55,
+      "order": 6
+    },
+    {
+      "title": "Partition Array for Maximum Sum",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 7
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 8
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Dynamic Programming Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "Dynamic Programming Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/dynamic-programming/",
+      "order": 2
+    }
+  ]
+}
+  ]
+}

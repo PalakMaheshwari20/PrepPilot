@@ -1,0 +1,263 @@
+{
+  "title": "Greedy Algorithms",
+  "description": "Master greedy strategies and solve classic optimization problems frequently asked in coding interviews.",
+  "order": 13,
+  "topics": [
+    {
+      "title": "Greedy Fundamentals",
+      "description": "Learn the greedy paradigm and solve foundational greedy interview problems.",
+      "order": 1,
+      "tasks": [
+        {
+          "title": "Learn Greedy Algorithm Theory",
+          "type": "theory",
+          "estimated_minutes": 40,
+          "order": 1
+        },
+        {
+          "title": "Watch Greedy Basics",
+          "type": "video",
+          "estimated_minutes": 50,
+          "order": 2
+        },
+        {
+          "title": "Assign Cookies",
+          "type": "practice",
+          "difficulty": "easy",
+          "estimated_minutes": 20,
+          "order": 3
+        },
+        {
+          "title": "Lemonade Change",
+          "type": "practice",
+          "difficulty": "easy",
+          "estimated_minutes": 20,
+          "order": 4
+        },
+        {
+          "title": "Jump Game",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 30,
+          "order": 5
+        },
+        {
+          "title": "Jump Game II",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 35,
+          "order": 6
+        },
+        {
+          "title": "Maximum Units on a Truck",
+          "type": "practice",
+          "difficulty": "easy",
+          "estimated_minutes": 25,
+          "order": 7
+        },
+        {
+          "title": "Fractional Knapsack",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 35,
+          "order": 8
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 30,
+          "order": 9
+        }
+      ],
+      "resources": [
+        {
+          "title": "Striver Greedy Playlist",
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/@takeUforward",
+          "order": 1
+        },
+        {
+          "title": "Greedy Problems",
+          "type": "problem",
+          "provider": "leetcode",
+          "url": "https://leetcode.com/tag/greedy/",
+          "order": 2
+        }
+      ]
+    },
+    {
+  "title": "Scheduling & Interval Problems",
+  "description": "Learn interval scheduling, meeting room problems, and interval merging techniques.",
+  "order": 2,
+  "tasks": [
+    {
+      "title": "Learn Scheduling Algorithms",
+      "type": "theory",
+      "estimated_minutes": 40,
+      "order": 1
+    },
+    {
+      "title": "Watch Interval Problems",
+      "type": "video",
+      "estimated_minutes": 50,
+      "order": 2
+    },
+    {
+      "title": "N Meetings in One Room",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 3
+    },
+    {
+      "title": "Meeting Rooms",
+      "type": "practice",
+      "difficulty": "easy",
+      "estimated_minutes": 25,
+      "order": 4
+    },
+    {
+      "title": "Meeting Rooms II",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 5
+    },
+    {
+      "title": "Merge Intervals",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 6
+    },
+    {
+      "title": "Insert Interval",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 7
+    },
+    {
+      "title": "Non-overlapping Intervals",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 8
+    },
+    {
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 9
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 10
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Greedy Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "Greedy Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/greedy/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "Advanced Greedy Problems",
+  "description": "Master advanced optimization problems solved using greedy strategies.",
+  "order": 3,
+  "tasks": [
+    {
+      "title": "Learn Advanced Greedy Patterns",
+      "type": "theory",
+      "estimated_minutes": 40,
+      "order": 1
+    },
+    {
+      "title": "Watch Advanced Greedy Problems",
+      "type": "video",
+      "estimated_minutes": 50,
+      "order": 2
+    },
+    {
+      "title": "Gas Station",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 3
+    },
+    {
+      "title": "Candy",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 45,
+      "order": 4
+    },
+    {
+      "title": "Job Sequencing Problem",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 5
+    },
+    {
+      "title": "Huffman Encoding",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 50,
+      "order": 6
+    },
+    {
+      "title": "Minimum Platforms",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 7
+    },
+    {
+      "title": "Partition Labels",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 30,
+      "order": 8
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 9
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Greedy Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "Greedy Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/greedy/",
+      "order": 2
+    }
+  ]
+}
+  ]
+}

@@ -1,0 +1,507 @@
+{
+  "title": "Stack & Queue",
+  "description": "Master stacks, queues, monotonic stacks, and deque-based interview problems using Striver's A2Z DSA Sheet.",
+  "order": 9,
+  "topics": [
+    {
+      "title": "Stack Fundamentals",
+      "description": "Learn stack operations, implementation, and solve introductory stack interview problems.",
+      "order": 1,
+      "tasks": [
+        {
+          "title": "Learn Stack Theory",
+          "type": "theory",
+          "estimated_minutes": 35,
+          "order": 1
+        },
+        {
+          "title": "Watch Stack Basics",
+          "type": "video",
+          "estimated_minutes": 45,
+          "order": 2
+        },
+        {
+          "title": "Implement Stack using Array",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 3
+        },
+        {
+          "title": "Implement Stack using Linked List",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 4
+        },
+        {
+          "title": "Implement Stack using Queues",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "LeetCode",
+          "estimated_minutes": 25,
+          "order": 5
+        },
+        {
+          "title": "Valid Parentheses",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "LeetCode",
+          "estimated_minutes": 20,
+          "order": 6
+        },
+        {
+          "title": "Min Stack",
+          "type": "practice",
+          "difficulty": "medium",
+          "platform": "LeetCode",
+          "estimated_minutes": 35,
+          "order": 7
+        },
+        {
+          "title": "Next Greater Element I",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "LeetCode",
+          "estimated_minutes": 25,
+          "order": 8
+        },
+        {
+          "title": "Next Greater Element II",
+          "type": "practice",
+          "difficulty": "medium",
+          "platform": "LeetCode",
+          "estimated_minutes": 35,
+          "order": 9
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 30,
+          "order": 10
+        }
+      ],
+      "resources": [
+        {
+          "title": "Striver Stack & Queue Playlist",
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/@takeUforward",
+          "order": 1
+        },
+        {
+          "title": "LeetCode Stack Problems",
+          "type": "problem",
+          "provider": "leetcode",
+          "url": "https://leetcode.com/tag/stack/",
+          "order": 2
+        }
+      ]
+    },
+    {
+  "title": "Queue Fundamentals",
+  "description": "Learn queue implementations and solve fundamental queue-based interview problems.",
+  "order": 2,
+  "tasks": [
+    {
+      "title": "Learn Queue Theory",
+      "type": "theory",
+      "estimated_minutes": 35,
+      "order": 1
+    },
+    {
+      "title": "Watch Queue Basics",
+      "type": "video",
+      "estimated_minutes": 45,
+      "order": 2
+    },
+    {
+      "title": "Implement Queue using Array",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "GFG",
+      "estimated_minutes": 20,
+      "order": 3
+    },
+    {
+      "title": "Implement Queue using Linked List",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "GFG",
+      "estimated_minutes": 20,
+      "order": 4
+    },
+    {
+      "title": "Implement Queue using Stacks",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "LeetCode",
+      "estimated_minutes": 25,
+      "order": 5
+    },
+    {
+      "title": "Design Circular Queue",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 6
+    },
+    {
+      "title": "Number of Recent Calls",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "LeetCode",
+      "estimated_minutes": 20,
+      "order": 7
+    },
+    {
+      "title": "Time Needed to Buy Tickets",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "LeetCode",
+      "estimated_minutes": 20,
+      "order": 8
+    },
+    {
+      "title": "Dota2 Senate",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 9
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 10
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Stack & Queue Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "LeetCode Queue Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/queue/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "Monotonic Stack & Queue",
+  "description": "Learn monotonic data structures and solve next greater/smaller element and histogram problems.",
+  "order": 3,
+  "tasks": [
+    {
+      "title": "Learn Monotonic Stack & Queue",
+      "type": "theory",
+      "estimated_minutes": 40,
+      "order": 1
+    },
+    {
+      "title": "Watch Monotonic Stack Problems",
+      "type": "video",
+      "estimated_minutes": 50,
+      "order": 2
+    },
+    {
+      "title": "Previous Greater Element",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "GFG",
+      "estimated_minutes": 25,
+      "order": 3
+    },
+    {
+      "title": "Previous Smaller Element",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "GFG",
+      "estimated_minutes": 25,
+      "order": 4
+    },
+    {
+      "title": "Next Smaller Element",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "GFG",
+      "estimated_minutes": 30,
+      "order": 5
+    },
+    {
+      "title": "Daily Temperatures",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 6
+    },
+    {
+      "title": "Online Stock Span",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 7
+    },
+    {
+      "title": "Largest Rectangle in Histogram",
+      "type": "practice",
+      "difficulty": "hard",
+      "platform": "LeetCode",
+      "estimated_minutes": 50,
+      "order": 8
+    },
+    {
+      "title": "Maximal Rectangle",
+      "type": "practice",
+      "difficulty": "hard",
+      "platform": "LeetCode",
+      "estimated_minutes": 60,
+      "order": 9
+    },
+    {
+      "title": "Sliding Window Maximum",
+      "type": "practice",
+      "difficulty": "hard",
+      "platform": "LeetCode",
+      "estimated_minutes": 50,
+      "order": 10
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 11
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Stack & Queue Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "LeetCode Stack Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/stack/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "Expression Evaluation & Conversions",
+  "description": "Learn expression conversion and evaluation using stacks.",
+  "order": 4,
+  "tasks": [
+    {
+      "title": "Learn Expression Evaluation",
+      "type": "theory",
+      "estimated_minutes": 40,
+      "order": 1
+    },
+    {
+      "title": "Watch Expression Problems",
+      "type": "video",
+      "estimated_minutes": 50,
+      "order": 2
+    },
+    {
+      "title": "Infix to Postfix",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "GFG",
+      "estimated_minutes": 35,
+      "order": 3
+    },
+    {
+      "title": "Infix to Prefix",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "GFG",
+      "estimated_minutes": 35,
+      "order": 4
+    },
+    {
+      "title": "Postfix to Infix",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "GFG",
+      "estimated_minutes": 30,
+      "order": 5
+    },
+    {
+      "title": "Prefix to Infix",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "GFG",
+      "estimated_minutes": 30,
+      "order": 6
+    },
+    {
+      "title": "Evaluate Reverse Polish Notation",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 7
+    },
+    {
+      "title": "Basic Calculator II",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 45,
+      "order": 8
+    },
+    {
+      "title": "Basic Calculator",
+      "type": "practice",
+      "difficulty": "hard",
+      "platform": "LeetCode",
+      "estimated_minutes": 60,
+      "order": 9
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 10
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Stack & Queue Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "GeeksforGeeks Expression Conversion",
+      "type": "article",
+      "provider": "gfg",
+      "url": "https://www.geeksforgeeks.org/stack-data-structure/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "Advanced Stack & Queue Problems",
+  "description": "Master advanced interview problems using stacks, queues, deques, and multiple data structures.",
+  "order": 5,
+  "tasks": [
+    {
+      "title": "Learn Advanced Stack & Queue Patterns",
+      "type": "theory",
+      "estimated_minutes": 40,
+      "order": 1
+    },
+    {
+      "title": "Watch Advanced Stack & Queue Problems",
+      "type": "video",
+      "estimated_minutes": 50,
+      "order": 2
+    },
+    {
+      "title": "Asteroid Collision",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 3
+    },
+    {
+      "title": "Decode String",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 4
+    },
+    {
+      "title": "Remove K Digits",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 5
+    },
+    {
+      "title": "Sum of Subarray Minimums",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 45,
+      "order": 6
+    },
+    {
+      "title": "Remove Duplicate Letters",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 7
+    },
+    {
+      "title": "LFU Cache",
+      "type": "practice",
+      "difficulty": "hard",
+      "platform": "LeetCode",
+      "estimated_minutes": 60,
+      "order": 8
+    },
+    {
+      "title": "Trapping Rain Water",
+      "type": "practice",
+      "difficulty": "hard",
+      "platform": "LeetCode",
+      "estimated_minutes": 50,
+      "order": 9
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 10
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Stack & Queue Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "LeetCode Stack Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/stack/",
+      "order": 2
+    },
+    {
+      "title": "GeeksforGeeks Stack & Queue",
+      "type": "article",
+      "provider": "gfg",
+      "url": "https://www.geeksforgeeks.org/stack-data-structure/",
+      "order": 3
+    }
+  ]
+}
+  ]
+}

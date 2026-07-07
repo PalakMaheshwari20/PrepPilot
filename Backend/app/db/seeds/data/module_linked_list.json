@@ -1,0 +1,506 @@
+{
+  "title": "Linked List",
+  "description": "Master singly and doubly linked lists along with classic interview problems using Striver's A2Z DSA Sheet.",
+  "order": 6,
+  "topics": [
+    {
+      "title": "Singly Linked List Fundamentals",
+      "description": "Learn the basics of singly linked lists and solve fundamental interview problems.",
+      "order": 1,
+      "tasks": [
+        {
+          "title": "Learn Singly Linked List Theory",
+          "type": "theory",
+          "estimated_minutes": 30,
+          "order": 1
+        },
+        {
+          "title": "Watch Singly Linked List Basics",
+          "type": "video",
+          "estimated_minutes": 45,
+          "order": 2
+        },
+        {
+          "title": "Introduction to Linked List",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 3
+        },
+        {
+          "title": "Convert Array to Linked List",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 4
+        },
+        {
+          "title": "Search in a Linked List",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 5
+        },
+        {
+          "title": "Insert at Beginning of Linked List",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 6
+        },
+        {
+          "title": "Insert at End of Linked List",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 7
+        },
+        {
+          "title": "Delete Head of Linked List",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 8
+        },
+        {
+          "title": "Delete Tail of Linked List",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 9
+        },
+        {
+          "title": "Length of Linked List",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 10
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 30,
+          "order": 11
+        }
+      ],
+      "resources": [
+        {
+          "title": "Striver Linked List Playlist",
+          "type": "YOUTUBE",
+          "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0r47RKH7fdWN54AbWFgGuii",
+          "order": 1
+        },
+        {
+          "title": "LeetCode Linked List Problems",
+          "type": "LEETCODE",
+          "url": "https://leetcode.com/tag/linked-list/",
+          "order": 2
+        }
+      ]
+    },
+    {
+  "title": "Intermediate Linked List Problems",
+  "description": "Master the most frequently asked linked list interview problems involving traversal and pointer manipulation.",
+  "order": 2,
+  "tasks": [
+    {
+      "title": "Learn Two Pointer Technique for Linked Lists",
+      "type": "theory",
+      "estimated_minutes": 35,
+      "order": 1
+    },
+    {
+      "title": "Watch Intermediate Linked List Problems",
+      "type": "video",
+      "estimated_minutes": 45,
+      "order": 2
+    },
+    {
+      "title": "Reverse Linked List",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "LeetCode",
+      "estimated_minutes": 25,
+      "order": 3
+    },
+    {
+      "title": "Middle of the Linked List",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "LeetCode",
+      "estimated_minutes": 20,
+      "order": 4
+    },
+    {
+      "title": "Merge Two Sorted Lists",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "LeetCode",
+      "estimated_minutes": 25,
+      "order": 5
+    },
+    {
+      "title": "Remove Nth Node From End of List",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 6
+    },
+    {
+      "title": "Delete the Middle Node of a Linked List",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 30,
+      "order": 7
+    },
+    {
+      "title": "Odd Even Linked List",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 8
+    },
+    {
+      "title": "Sort List",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 45,
+      "order": 9
+    },
+    {
+      "title": "Add Two Numbers",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 10
+    },
+    {
+      "title": "Intersection of Two Linked Lists",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "LeetCode",
+      "estimated_minutes": 30,
+      "order": 11
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 12
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Linked List Playlist",
+      "type": "YOUTUBE",
+      "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0r47RKH7fdWN54AbWFgGuii",
+      "order": 1
+    }
+  ]
+},
+{
+  "title": "Fast & Slow Pointer Patterns",
+  "description": "Master Floyd's Cycle Detection Algorithm and classic fast-slow pointer interview problems.",
+  "order": 3,
+  "tasks": [
+    {
+      "title": "Learn Fast & Slow Pointer Technique",
+      "type": "theory",
+      "estimated_minutes": 35,
+      "order": 1
+    },
+    {
+      "title": "Watch Fast & Slow Pointer Problems",
+      "type": "video",
+      "estimated_minutes": 45,
+      "order": 2
+    },
+    {
+      "title": "Linked List Cycle",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "LeetCode",
+      "estimated_minutes": 25,
+      "order": 3
+    },
+    {
+      "title": "Linked List Cycle II",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 4
+    },
+    {
+      "title": "Palindrome Linked List",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "LeetCode",
+      "estimated_minutes": 30,
+      "order": 5
+    },
+    {
+      "title": "Reorder List",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 6
+    },
+    {
+      "title": "Maximum Twin Sum of a Linked List",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 7
+    },
+    {
+      "title": "Remove Duplicates from Sorted List",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "LeetCode",
+      "estimated_minutes": 20,
+      "order": 8
+    },
+    {
+      "title": "Remove Duplicates from Sorted List II",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 9
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 10
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Linked List Playlist",
+      "type": "YOUTUBE",
+      "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0r47RKH7fdWN54AbWFgGuii",
+      "order": 1
+    },
+    {
+      "title": "LeetCode Linked List Problems",
+      "type": "LEETCODE",
+      "url": "https://leetcode.com/tag/linked-list/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "Doubly Linked List",
+  "description": "Learn doubly linked lists, their operations, and design-based interview problems.",
+  "order": 4,
+  "tasks": [
+    {
+      "title": "Learn Doubly Linked List Theory",
+      "type": "theory",
+      "estimated_minutes": 30,
+      "order": 1
+    },
+    {
+      "title": "Watch Doubly Linked List",
+      "type": "video",
+      "estimated_minutes": 45,
+      "order": 2
+    },
+    {
+      "title": "Introduction to Doubly Linked List",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "GFG",
+      "estimated_minutes": 20,
+      "order": 3
+    },
+    {
+      "title": "Insert at Beginning in Doubly Linked List",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "GFG",
+      "estimated_minutes": 20,
+      "order": 4
+    },
+    {
+      "title": "Insert at End in Doubly Linked List",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "GFG",
+      "estimated_minutes": 20,
+      "order": 5
+    },
+    {
+      "title": "Delete a Node in Doubly Linked List",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "GFG",
+      "estimated_minutes": 30,
+      "order": 6
+    },
+    {
+      "title": "Reverse a Doubly Linked List",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "GFG",
+      "estimated_minutes": 35,
+      "order": 7
+    },
+    {
+      "title": "Design Browser History",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 8
+    },
+    {
+      "title": "LRU Cache",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 50,
+      "order": 9
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 10
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Linked List Playlist",
+      "type": "YOUTUBE",
+      "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0r47RKH7fdWN54AbWFgGuii",
+      "order": 1
+    },
+    {
+      "title": "LeetCode Linked List Problems",
+      "type": "LEETCODE",
+      "url": "https://leetcode.com/tag/linked-list/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "Advanced Linked List Problems",
+  "description": "Solve advanced linked list problems involving multiple pointers, recursion, and complex node manipulations.",
+  "order": 5,
+  "tasks": [
+    {
+      "title": "Learn Advanced Linked List Techniques",
+      "type": "theory",
+      "estimated_minutes": 45,
+      "order": 1
+    },
+    {
+      "title": "Watch Advanced Linked List Problems",
+      "type": "video",
+      "estimated_minutes": 60,
+      "order": 2
+    },
+    {
+      "title": "Reverse Linked List II",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 3
+    },
+    {
+      "title": "Reverse Nodes in k-Group",
+      "type": "practice",
+      "difficulty": "hard",
+      "platform": "LeetCode",
+      "estimated_minutes": 60,
+      "order": 4
+    },
+    {
+      "title": "Rotate List",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 5
+    },
+    {
+      "title": "Copy List with Random Pointer",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 45,
+      "order": 6
+    },
+    {
+      "title": "Flatten a Multilevel Doubly Linked List",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 45,
+      "order": 7
+    },
+    {
+      "title": "Merge k Sorted Lists",
+      "type": "practice",
+      "difficulty": "hard",
+      "platform": "LeetCode",
+      "estimated_minutes": 60,
+      "order": 8
+    },
+    {
+      "title": "Flattening a Linked List",
+      "type": "practice",
+      "difficulty": "hard",
+      "platform": "GFG",
+      "estimated_minutes": 60,
+      "order": 9
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 10
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Linked List Playlist",
+      "type": "YOUTUBE",
+      "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0r47RKH7fdWN54AbWFgGuii",
+      "order": 1
+    },
+    {
+      "title": "LeetCode Linked List Problems",
+      "type": "LEETCODE",
+      "url": "https://leetcode.com/tag/linked-list/",
+      "order": 2
+    },
+    {
+      "title": "GeeksforGeeks Linked List",
+      "type": "GFG",
+      "url": "https://www.geeksforgeeks.org/data-structures/linked-list/",
+      "order": 3
+    }
+  ]
+}
+  ]
+}

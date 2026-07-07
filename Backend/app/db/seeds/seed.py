@@ -11,8 +11,7 @@ def seed_dsa():
     db = SessionLocal()
 
     try:
-        roadmap_data = load_json("dsa.json")
-
+        roadmap_data = load_json()
         roadmap = seed_roadmap(db, roadmap_data)
 
         modules = seed_modules(

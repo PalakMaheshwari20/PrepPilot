@@ -1,0 +1,242 @@
+{
+  "title": "Heaps",
+  "description": "Master heap data structures, priority queues, and heap-based interview problems.",
+  "order": 12,
+  "topics": [
+    {
+      "title": "Heap Fundamentals",
+      "description": "Learn heap properties, priority queues, and basic heap operations.",
+      "order": 1,
+      "tasks": [
+        {
+          "title": "Learn Heap Theory",
+          "type": "theory",
+          "estimated_minutes": 40,
+          "order": 1
+        },
+        {
+          "title": "Watch Heap Basics",
+          "type": "video",
+          "estimated_minutes": 50,
+          "order": 2
+        },
+        {
+          "title": "Implement Min Heap",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 35,
+          "order": 3
+        },
+        {
+          "title": "Implement Max Heap",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 35,
+          "order": 4
+        },
+        {
+          "title": "Kth Largest Element in an Array",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 30,
+          "order": 5
+        },
+        {
+          "title": "Kth Smallest Element",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 30,
+          "order": 6
+        },
+        {
+          "title": "Last Stone Weight",
+          "type": "practice",
+          "difficulty": "easy",
+          "estimated_minutes": 20,
+          "order": 7
+        },
+        {
+          "title": "Heap Sort",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 40,
+          "order": 8
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 30,
+          "order": 9
+        }
+      ],
+      "resources": [
+        {
+          "title": "Striver Heap Playlist",
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/@takeUforward",
+          "order": 1
+        },
+        {
+          "title": "Heap Problems",
+          "type": "problem",
+          "provider": "leetcode",
+          "url": "https://leetcode.com/tag/heap-priority-queue/",
+          "order": 2
+        }
+      ]
+    },
+    {
+  "title": "Heap Applications",
+  "description": "Apply heaps to solve scheduling, merging, and top-k interview problems.",
+  "order": 2,
+  "tasks": [
+    {
+      "title": "Learn Heap Applications",
+      "type": "theory",
+      "estimated_minutes": 35,
+      "order": 1
+    },
+    {
+      "title": "Watch Heap Application Problems",
+      "type": "video",
+      "estimated_minutes": 45,
+      "order": 2
+    },
+    {
+      "title": "Top K Frequent Elements",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 3
+    },
+    {
+      "title": "K Closest Points to Origin",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 4
+    },
+    {
+      "title": "Find Median from Data Stream",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 60,
+      "order": 5
+    },
+    {
+      "title": "Merge k Sorted Lists",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 50,
+      "order": 6
+    },
+    {
+      "title": "Ugly Number II",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 7
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 8
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Heap Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "Heap Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/heap-priority-queue/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "Advanced Heap Problems",
+  "description": "Master advanced priority queue patterns and greedy heap-based interview problems.",
+  "order": 3,
+  "tasks": [
+    {
+      "title": "Learn Advanced Heap Patterns",
+      "type": "theory",
+      "estimated_minutes": 40,
+      "order": 1
+    },
+    {
+      "title": "Watch Advanced Heap Problems",
+      "type": "video",
+      "estimated_minutes": 50,
+      "order": 2
+    },
+    {
+      "title": "Task Scheduler",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 3
+    },
+    {
+      "title": "IPO",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 50,
+      "order": 4
+    },
+    {
+      "title": "Smallest Range Covering Elements from K Lists",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 60,
+      "order": 5
+    },
+    {
+      "title": "Meeting Rooms II",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 6
+    },
+    {
+      "title": "Hands of Straights",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 7
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 8
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Heap Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "Heap Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/heap-priority-queue/",
+      "order": 2
+    }
+  ]
+}
+  ]
+}

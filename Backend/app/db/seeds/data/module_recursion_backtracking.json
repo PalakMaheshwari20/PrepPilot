@@ -1,0 +1,480 @@
+{
+  "title": "Recursion & Backtracking",
+  "description": "Master recursion, backtracking, and recursive problem-solving patterns for coding interviews using Striver's A2Z DSA Sheet.",
+  "order": 7,
+  "topics": [
+    {
+      "title": "Recursion Fundamentals",
+      "description": "Understand recursion basics, recursion trees, stack space, and solve beginner recursive problems.",
+      "order": 1,
+      "tasks": [
+        {
+          "title": "Learn Recursion Theory",
+          "type": "theory",
+          "estimated_minutes": 35,
+          "order": 1
+        },
+        {
+          "title": "Watch Recursion Fundamentals",
+          "type": "video",
+          "estimated_minutes": 45,
+          "order": 2
+        },
+        {
+          "title": "Print Numbers from 1 to N",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 15,
+          "order": 3
+        },
+        {
+          "title": "Print Numbers from N to 1",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 15,
+          "order": 4
+        },
+        {
+          "title": "Print Name N Times",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 15,
+          "order": 5
+        },
+        {
+          "title": "Sum of First N Numbers",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 6
+        },
+        {
+          "title": "Factorial of N",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "LeetCode",
+          "estimated_minutes": 20,
+          "order": 7
+        },
+        {
+          "title": "Reverse an Array",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 8
+        },
+        {
+          "title": "Check if String is Palindrome",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 9
+        },
+        {
+          "title": "Fibonacci Number",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "LeetCode",
+          "estimated_minutes": 20,
+          "order": 10
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 30,
+          "order": 11
+        }
+      ],
+      "resources": [
+        {
+          "title": "Striver Recursion Playlist",
+          "type": "YOUTUBE",
+          "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0qULT3K2WjWkV2n5jN5m8sQ",
+          "order": 1
+        },
+        {
+          "title": "LeetCode Recursion Problems",
+          "type": "LEETCODE",
+          "url": "https://leetcode.com/tag/recursion/",
+          "order": 2
+        }
+      ]
+    },
+    {
+  "title": "Recursion on Arrays & Strings",
+  "description": "Apply recursion to solve array and string problems commonly asked in interviews.",
+  "order": 2,
+  "tasks": [
+    {
+      "title": "Learn Recursive Problem Solving",
+      "type": "theory",
+      "estimated_minutes": 35,
+      "order": 1
+    },
+    {
+      "title": "Watch Recursion on Arrays & Strings",
+      "type": "video",
+      "estimated_minutes": 45,
+      "order": 2
+    },
+    {
+      "title": "Power Function (Pow(x, n))",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 30,
+      "order": 3
+    },
+    {
+      "title": "Generate Parentheses",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 4
+    },
+    {
+      "title": "Letter Combinations of a Phone Number",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 5
+    },
+    {
+      "title": "Subsets",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 6
+    },
+    {
+      "title": "Subsets II",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 7
+    },
+    {
+      "title": "Permutations",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 8
+    },
+    {
+      "title": "Permutations II",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 45,
+      "order": 9
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 10
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Recursion Playlist",
+      "type": "YOUTUBE",
+      "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0qULT3K2WjWkV2n5jN5m8sQ",
+      "order": 1
+    },
+    {
+      "title": "LeetCode Recursion Problems",
+      "type": "LEETCODE",
+      "url": "https://leetcode.com/tag/recursion/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "Combination & Subset Backtracking",
+  "description": "Master backtracking through combinations, subset sums, and combination sum problems.",
+  "order": 3,
+  "tasks": [
+    {
+      "title": "Learn Backtracking Fundamentals",
+      "type": "theory",
+      "estimated_minutes": 40,
+      "order": 1
+    },
+    {
+      "title": "Watch Combination Backtracking",
+      "type": "video",
+      "estimated_minutes": 50,
+      "order": 2
+    },
+    {
+      "title": "Combination Sum",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 3
+    },
+    {
+      "title": "Combination Sum II",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 45,
+      "order": 4
+    },
+    {
+      "title": "Combination Sum III",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 5
+    },
+    {
+      "title": "Subset Sums",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "GFG",
+      "estimated_minutes": 35,
+      "order": 6
+    },
+    {
+      "title": "Combination Sum IV",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 7
+    },
+    {
+      "title": "Palindrome Partitioning",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 45,
+      "order": 8
+    },
+    {
+      "title": "Restore IP Addresses",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 9
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 10
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Recursion Playlist",
+      "type": "YOUTUBE",
+      "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0qULT3K2WjWkV2n5jN5m8sQ",
+      "order": 1
+    },
+    {
+      "title": "LeetCode Backtracking Problems",
+      "type": "LEETCODE",
+      "url": "https://leetcode.com/tag/backtracking/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "Backtracking on Grids & Boards",
+  "description": "Apply backtracking to solve grid traversal, constraint satisfaction, and board-based interview problems.",
+  "order": 4,
+  "tasks": [
+    {
+      "title": "Learn Grid Backtracking",
+      "type": "theory",
+      "estimated_minutes": 40,
+      "order": 1
+    },
+    {
+      "title": "Watch Grid & Board Backtracking",
+      "type": "video",
+      "estimated_minutes": 50,
+      "order": 2
+    },
+    {
+      "title": "Word Search",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 3
+    },
+    {
+      "title": "N-Queens",
+      "type": "practice",
+      "difficulty": "hard",
+      "platform": "LeetCode",
+      "estimated_minutes": 60,
+      "order": 4
+    },
+    {
+      "title": "Sudoku Solver",
+      "type": "practice",
+      "difficulty": "hard",
+      "platform": "LeetCode",
+      "estimated_minutes": 60,
+      "order": 5
+    },
+    {
+      "title": "Rat in a Maze",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "GFG",
+      "estimated_minutes": 45,
+      "order": 6
+    },
+    {
+      "title": "M-Coloring Problem",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "GFG",
+      "estimated_minutes": 45,
+      "order": 7
+    },
+    {
+      "title": "Path with Maximum Gold",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 45,
+      "order": 8
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 9
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Recursion Playlist",
+      "type": "YOUTUBE",
+      "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0qULT3K2WjWkV2n5jN5m8sQ",
+      "order": 1
+    },
+    {
+      "title": "LeetCode Backtracking Problems",
+      "type": "LEETCODE",
+      "url": "https://leetcode.com/tag/backtracking/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "Advanced Recursion & Backtracking",
+  "description": "Master advanced recursive and backtracking patterns commonly asked in coding interviews.",
+  "order": 5,
+  "tasks": [
+    {
+      "title": "Learn Advanced Backtracking Patterns",
+      "type": "theory",
+      "estimated_minutes": 45,
+      "order": 1
+    },
+    {
+      "title": "Watch Advanced Backtracking Problems",
+      "type": "video",
+      "estimated_minutes": 60,
+      "order": 2
+    },
+    {
+      "title": "K-th Permutation Sequence",
+      "type": "practice",
+      "difficulty": "hard",
+      "platform": "LeetCode",
+      "estimated_minutes": 50,
+      "order": 3
+    },
+    {
+      "title": "Expression Add Operators",
+      "type": "practice",
+      "difficulty": "hard",
+      "platform": "LeetCode",
+      "estimated_minutes": 60,
+      "order": 4
+    },
+    {
+      "title": "Different Ways to Add Parentheses",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 45,
+      "order": 5
+    },
+    {
+      "title": "Letter Tile Possibilities",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 6
+    },
+    {
+      "title": "Split a String Into the Max Number of Unique Substrings",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 45,
+      "order": 7
+    },
+    {
+      "title": "Matchsticks to Square",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 45,
+      "order": 8
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 9
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Recursion Playlist",
+      "type": "YOUTUBE",
+      "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0qULT3K2WjWkV2n5jN5m8sQ",
+      "order": 1
+    },
+    {
+      "title": "LeetCode Backtracking Problems",
+      "type": "LEETCODE",
+      "url": "https://leetcode.com/tag/backtracking/",
+      "order": 2
+    },
+    {
+      "title": "GeeksforGeeks Backtracking",
+      "type": "GFG",
+      "url": "https://www.geeksforgeeks.org/backtracking-algorithms/",
+      "order": 3
+    }
+  ]
+}
+  ]
+}

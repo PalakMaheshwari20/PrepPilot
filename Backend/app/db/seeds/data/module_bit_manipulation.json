@@ -1,0 +1,480 @@
+{
+  "title": "Bit Manipulation",
+  "description": "Master bitwise operations and bit manipulation techniques for coding interviews using Striver's A2Z DSA Sheet.",
+  "order": 8,
+  "topics": [
+    {
+      "title": "Bit Manipulation Fundamentals",
+      "description": "Learn bitwise operators, binary representation, and solve introductory bit manipulation problems.",
+      "order": 1,
+      "tasks": [
+        {
+          "title": "Learn Bit Manipulation Theory",
+          "type": "theory",
+          "estimated_minutes": 35,
+          "order": 1
+        },
+        {
+          "title": "Watch Bit Manipulation Basics",
+          "type": "video",
+          "estimated_minutes": 45,
+          "order": 2
+        },
+        {
+          "title": "Decimal to Binary Conversion",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 15,
+          "order": 3
+        },
+        {
+          "title": "Binary to Decimal Conversion",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 15,
+          "order": 4
+        },
+        {
+          "title": "Check if the i-th Bit is Set",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 5
+        },
+        {
+          "title": "Set the i-th Bit",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 6
+        },
+        {
+          "title": "Clear the i-th Bit",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 7
+        },
+        {
+          "title": "Toggle the i-th Bit",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 8
+        },
+        {
+          "title": "Remove the Rightmost Set Bit",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "GFG",
+          "estimated_minutes": 20,
+          "order": 9
+        },
+        {
+          "title": "Count Number of Set Bits",
+          "type": "practice",
+          "difficulty": "easy",
+          "platform": "LeetCode",
+          "estimated_minutes": 20,
+          "order": 10
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 30,
+          "order": 11
+        }
+      ],
+      "resources": [
+        {
+          "title": "Striver Bit Manipulation Playlist",
+          "type": "YOUTUBE",
+          "url": "https://www.youtube.com/@takeUforward",
+          "order": 1
+        },
+        {
+          "title": "LeetCode Bit Manipulation Problems",
+          "type": "LEETCODE",
+          "url": "https://leetcode.com/tag/bit-manipulation/",
+          "order": 2
+        }
+      ]
+    },
+    {
+  "title": "Bit Manipulation Patterns",
+  "description": "Learn common XOR properties and bit tricks frequently used in coding interviews.",
+  "order": 2,
+  "tasks": [
+    {
+      "title": "Learn XOR & Bit Tricks",
+      "type": "theory",
+      "estimated_minutes": 35,
+      "order": 1
+    },
+    {
+      "title": "Watch XOR Patterns",
+      "type": "video",
+      "estimated_minutes": 45,
+      "order": 2
+    },
+    {
+      "title": "Single Number",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "LeetCode",
+      "estimated_minutes": 20,
+      "order": 3
+    },
+    {
+      "title": "Missing Number",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "LeetCode",
+      "estimated_minutes": 20,
+      "order": 4
+    },
+    {
+      "title": "Power of Two",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "LeetCode",
+      "estimated_minutes": 20,
+      "order": 5
+    },
+    {
+      "title": "Power of Four",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "LeetCode",
+      "estimated_minutes": 20,
+      "order": 6
+    },
+    {
+      "title": "Bitwise AND of Numbers Range",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 7
+    },
+    {
+      "title": "Single Number II",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 8
+    },
+    {
+      "title": "Single Number III",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 9
+    },
+    {
+      "title": "revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 10
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Bit Manipulation Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "LeetCode Bit Manipulation Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/bit-manipulation/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "Bitmasking & Subsets",
+  "description": "Learn how to use bitmasks for subset generation and combinatorial problems.",
+  "order": 3,
+  "tasks": [
+    {
+      "title": "Learn Bitmasking",
+      "type": "theory",
+      "estimated_minutes": 40,
+      "order": 1
+    },
+    {
+      "title": "Watch Bitmasking Problems",
+      "type": "video",
+      "estimated_minutes": 50,
+      "order": 2
+    },
+    {
+      "title": "Subsets using Bit Manipulation",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 3
+    },
+    {
+      "title": "Counting Bits",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "LeetCode",
+      "estimated_minutes": 25,
+      "order": 4
+    },
+    {
+      "title": "Counting Bits from 1 to N",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "GFG",
+      "estimated_minutes": 30,
+      "order": 5
+    },
+    {
+      "title": "Maximum XOR of Two Numbers in an Array",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 45,
+      "order": 6
+    },
+    {
+      "title": "Gray Code",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 7
+    },
+    {
+      "title": "Find XOR of Numbers from L to R",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "GFG",
+      "estimated_minutes": 30,
+      "order": 8
+    },
+    {
+      "title": "revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 9
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Bit Manipulation Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "LeetCode Bit Manipulation Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/bit-manipulation/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "Advanced Bit Manipulation",
+  "description": "Solve advanced interview problems involving XOR, bitmasking, and mathematical properties of bits.",
+  "order": 4,
+  "tasks": [
+    {
+      "title": "Learn Advanced Bit Tricks",
+      "type": "theory",
+      "estimated_minutes": 40,
+      "order": 1
+    },
+    {
+      "title": "Watch Advanced Bit Manipulation",
+      "type": "video",
+      "estimated_minutes": 50,
+      "order": 2
+    },
+    {
+      "title": "Maximum Product of Word Lengths",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 3
+    },
+    {
+      "title": "UTF-8 Validation",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 4
+    },
+    {
+      "title": "Total Hamming Distance",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 5
+    },
+    {
+      "title": "Number Complement",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "LeetCode",
+      "estimated_minutes": 20,
+      "order": 6
+    },
+    {
+      "title": "Minimum Bit Flips to Convert Number",
+      "type": "practice",
+      "difficulty": "easy",
+      "platform": "LeetCode",
+      "estimated_minutes": 20,
+      "order": 7
+    },
+    {
+      "title": "Find Kth Bit in Nth Binary String",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 8
+    },
+    {
+      "title": "revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 9
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Bit Manipulation Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "LeetCode Bit Manipulation Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/bit-manipulation/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "Bit Manipulation Interview Classics",
+  "description": "Practice classic interview problems that combine multiple bit manipulation concepts and optimizations.",
+  "order": 5,
+  "tasks": [
+    {
+      "title": "Learn Interview Bit Patterns",
+      "type": "theory",
+      "estimated_minutes": 40,
+      "order": 1
+    },
+    {
+      "title": "Watch Bit Manipulation Interview Problems",
+      "type": "video",
+      "estimated_minutes": 50,
+      "order": 2
+    },
+    {
+      "title": "Divide Two Integers",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 45,
+      "order": 3
+    },
+    {
+      "title": "Bitwise XOR of All Pairings",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 4
+    },
+    {
+      "title": "Neighboring Bitwise XOR",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 35,
+      "order": 5
+    },
+    {
+      "title": "Minimum One Bit Operations to Make Integers Zero",
+      "type": "practice",
+      "difficulty": "hard",
+      "platform": "LeetCode",
+      "estimated_minutes": 60,
+      "order": 6
+    },
+    {
+      "title": "Maximum XOR for Each Query",
+      "type": "practice",
+      "difficulty": "medium",
+      "platform": "LeetCode",
+      "estimated_minutes": 40,
+      "order": 7
+    },
+    {
+      "title": "Maximum XOR With an Element From Array",
+      "type": "practice",
+      "difficulty": "hard",
+      "platform": "LeetCode",
+      "estimated_minutes": 60,
+      "order": 8
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 9
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Bit Manipulation Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "LeetCode Bit Manipulation Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/bit-manipulation/",
+      "order": 2
+    },
+    {
+      "title": "Bit Manipulation Tutorial",
+      "type": "article",
+      "provider": "gfg",
+      "url": "https://www.geeksforgeeks.org/bitwise-algorithms/",
+      "order": 3
+    }
+  ]
+}
+  ]
+}

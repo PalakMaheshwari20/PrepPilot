@@ -1,0 +1,242 @@
+{
+  "title": "Binary Search Trees",
+  "description": "Master Binary Search Tree concepts, traversals, validation, construction, and interview problems.",
+  "order": 11,
+  "topics": [
+    {
+      "title": "BST Fundamentals",
+      "description": "Learn Binary Search Tree properties and solve fundamental BST interview problems.",
+      "order": 1,
+      "tasks": [
+        {
+          "title": "Learn Binary Search Tree Theory",
+          "type": "theory",
+          "estimated_minutes": 40,
+          "order": 1
+        },
+        {
+          "title": "Watch BST Basics",
+          "type": "video",
+          "estimated_minutes": 50,
+          "order": 2
+        },
+        {
+          "title": "Search in a Binary Search Tree",
+          "type": "practice",
+          "difficulty": "easy",
+          "estimated_minutes": 20,
+          "order": 3
+        },
+        {
+          "title": "Insert into a Binary Search Tree",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 30,
+          "order": 4
+        },
+        {
+          "title": "Delete Node in a BST",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 40,
+          "order": 5
+        },
+        {
+          "title": "Minimum Absolute Difference in BST",
+          "type": "practice",
+          "difficulty": "easy",
+          "estimated_minutes": 25,
+          "order": 6
+        },
+        {
+          "title": "Range Sum of BST",
+          "type": "practice",
+          "difficulty": "easy",
+          "estimated_minutes": 20,
+          "order": 7
+        },
+        {
+          "title": "Validate Binary Search Tree",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 35,
+          "order": 8
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 30,
+          "order": 9
+        }
+      ],
+      "resources": [
+        {
+          "title": "Striver BST Playlist",
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/@takeUforward",
+          "order": 1
+        },
+        {
+          "title": "Binary Search Tree Problems",
+          "type": "problem",
+          "provider": "leetcode",
+          "url": "https://leetcode.com/tag/binary-search-tree/",
+          "order": 2
+        }
+      ]
+    },
+    {
+  "title": "BST Traversal & Order Statistics",
+  "description": "Learn inorder-based BST problems and order statistic queries.",
+  "order": 2,
+  "tasks": [
+    {
+      "title": "Learn BST Traversal Techniques",
+      "type": "theory",
+      "estimated_minutes": 35,
+      "order": 1
+    },
+    {
+      "title": "Watch BST Traversal Problems",
+      "type": "video",
+      "estimated_minutes": 45,
+      "order": 2
+    },
+    {
+      "title": "Kth Smallest Element in a BST",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 3
+    },
+    {
+      "title": "Kth Largest Element in BST",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 4
+    },
+    {
+      "title": "Lowest Common Ancestor of a BST",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 30,
+      "order": 5
+    },
+    {
+      "title": "BST Iterator",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 6
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 7
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver BST Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "BST Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/binary-search-tree/",
+      "order": 2
+    }
+  ]
+},
+{
+  "title": "BST Construction & Advanced Problems",
+  "description": "Master BST construction, recovery, transformations, and interview classics.",
+  "order": 3,
+  "tasks": [
+    {
+      "title": "Learn Advanced BST Techniques",
+      "type": "theory",
+      "estimated_minutes": 40,
+      "order": 1
+    },
+    {
+      "title": "Watch Advanced BST Problems",
+      "type": "video",
+      "estimated_minutes": 50,
+      "order": 2
+    },
+    {
+      "title": "Construct BST from Preorder Traversal",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 3
+    },
+    {
+      "title": "Recover Binary Search Tree",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 4
+    },
+    {
+      "title": "Two Sum IV - Input is a BST",
+      "type": "practice",
+      "difficulty": "easy",
+      "estimated_minutes": 25,
+      "order": 5
+    },
+    {
+      "title": "Convert BST to Greater Tree",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 6
+    },
+    {
+      "title": "Balance a Binary Search Tree",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 7
+    },
+    {
+      "title": "Largest BST in Binary Tree",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 60,
+      "order": 8
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 9
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver BST Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "BST Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/binary-search-tree/",
+      "order": 2
+    }
+  ]
+}
+  ]
+}

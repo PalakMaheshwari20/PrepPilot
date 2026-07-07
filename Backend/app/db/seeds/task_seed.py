@@ -26,8 +26,7 @@ def seed_tasks(db: Session, topic: Topic, tasks_data: list[dict]) -> list[Task]:
                 difficulty=Difficulty(task_data["difficulty"])
                 if task_data.get("difficulty")
                 else None,
-                estimated_minutes=task_data["estimated_minutes"],
-                order=task_data["order"],
+                estimated_minutes=task_data.get("estimated_minutes", 30),                order=task_data["order"],
             )
 
             db.add(task)

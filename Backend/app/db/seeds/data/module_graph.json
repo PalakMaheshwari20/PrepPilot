@@ -1,0 +1,555 @@
+{
+  "title": "Graphs",
+  "description": "Master graph theory, traversal algorithms, shortest paths, minimum spanning trees, and advanced graph algorithms.",
+  "order": 14,
+  "topics": [
+    {
+      "title": "Graph Fundamentals",
+      "description": "Learn graph representations and fundamental traversal algorithms.",
+      "order": 1,
+      "tasks": [
+        {
+          "title": "Learn Graph Theory",
+          "type": "theory",
+          "estimated_minutes": 45,
+          "order": 1
+        },
+        {
+          "title": "Watch Graph Basics",
+          "type": "video",
+          "estimated_minutes": 60,
+          "order": 2
+        },
+        {
+          "title": "Graph Representation",
+          "type": "practice",
+          "difficulty": "easy",
+          "estimated_minutes": 20,
+          "order": 3
+        },
+        {
+          "title": "Breadth First Search (BFS)",
+          "type": "practice",
+          "difficulty": "easy",
+          "estimated_minutes": 30,
+          "order": 4
+        },
+        {
+          "title": "Depth First Search (DFS)",
+          "type": "practice",
+          "difficulty": "easy",
+          "estimated_minutes": 30,
+          "order": 5
+        },
+        {
+          "title": "Number of Provinces",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 35,
+          "order": 6
+        },
+        {
+          "title": "Flood Fill",
+          "type": "practice",
+          "difficulty": "easy",
+          "estimated_minutes": 25,
+          "order": 7
+        },
+        {
+          "title": "Number of Islands",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 35,
+          "order": 8
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 30,
+          "order": 9
+        }
+      ],
+      "resources": [
+        {
+          "title": "Striver Graph Playlist",
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/@takeUforward",
+          "order": 1
+        },
+        {
+          "title": "Graph Problems",
+          "type": "problem",
+          "provider": "leetcode",
+          "url": "https://leetcode.com/tag/graph/",
+          "order": 2
+        }
+      ]
+    },
+    {
+  "title": "Graph Traversal Applications",
+  "description": "Apply BFS and DFS to solve graph and grid traversal problems.",
+  "order": 2,
+  "tasks": [
+    {
+      "title": "Learn BFS & DFS Applications",
+      "type": "theory",
+      "estimated_minutes": 40,
+      "order": 1
+    },
+    {
+      "title": "Watch Graph Traversal Problems",
+      "type": "video",
+      "estimated_minutes": 55,
+      "order": 2
+    },
+    {
+      "title": "Rotting Oranges",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 3
+    },
+    {
+      "title": "01 Matrix",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 4
+    },
+    {
+      "title": "Surrounded Regions",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 5
+    },
+    {
+      "title": "Number of Enclaves",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 6
+    },
+    {
+      "title": "Word Ladder",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 50,
+      "order": 7
+    },
+    {
+      "title": "Word Ladder II",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 60,
+      "order": 8
+    },
+    {
+      "title": "Bipartite Graph",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 9
+    },
+    {
+      "title": "Detect Cycle in an Undirected Graph",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 10
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 11
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Graph Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "Graph Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/graph/",
+      "order": 2
+    }
+  ]
+    },
+    {
+  "title": "Directed Graphs & Topological Sort",
+  "description": "Learn directed graph algorithms, cycle detection, topological sorting, and dependency resolution.",
+  "order": 3,
+  "tasks": [
+    {
+      "title": "Learn Directed Graph Algorithms",
+      "type": "theory",
+      "estimated_minutes": 45,
+      "order": 1
+    },
+    {
+      "title": "Watch Topological Sort",
+      "type": "video",
+      "estimated_minutes": 60,
+      "order": 2
+    },
+    {
+      "title": "Detect Cycle in a Directed Graph (DFS)",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 3
+    },
+    {
+      "title": "Detect Cycle in a Directed Graph (BFS / Kahn's Algorithm)",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 4
+    },
+    {
+      "title": "Topological Sort (DFS)",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 5
+    },
+    {
+      "title": "Topological Sort (Kahn's Algorithm)",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 6
+    },
+    {
+      "title": "Course Schedule",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 7
+    },
+    {
+      "title": "Course Schedule II",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 8
+    },
+    {
+      "title": "Alien Dictionary",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 50,
+      "order": 9
+    },
+    {
+      "title": "Eventual Safe States",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 10
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 11
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Graph Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "Graph Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/graph/",
+      "order": 2
+    }
+  ]
+    },
+    {
+  "title": "Shortest Path Algorithms",
+  "description": "Master shortest path algorithms for unweighted, weighted, and DAG-based graphs.",
+  "order": 4,
+  "tasks": [
+    {
+      "title": "Learn Shortest Path Algorithms",
+      "type": "theory",
+      "estimated_minutes": 50,
+      "order": 1
+    },
+    {
+      "title": "Watch Shortest Path Problems",
+      "type": "video",
+      "estimated_minutes": 60,
+      "order": 2
+    },
+    {
+      "title": "Shortest Path in Binary Matrix",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 3
+    },
+    {
+      "title": "Shortest Path in an Unweighted Graph",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 4
+    },
+    {
+      "title": "Shortest Path in a DAG",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 40,
+      "order": 5
+    },
+    {
+      "title": "Dijkstra's Algorithm",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 50,
+      "order": 6
+    },
+    {
+      "title": "Network Delay Time",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 7
+    },
+    {
+      "title": "Path With Minimum Effort",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 50,
+      "order": 8
+    },
+    {
+      "title": "Cheapest Flights Within K Stops",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 50,
+      "order": 9
+    },
+    {
+      "title": "Bellman-Ford Algorithm",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 50,
+      "order": 10
+    },
+    {
+      "title": "Floyd-Warshall Algorithm",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 55,
+      "order": 11
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 12
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Graph Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "Graph Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/graph/",
+      "order": 2
+    }
+  ]
+    },
+    {
+  "title": "Minimum Spanning Tree & Disjoint Set Union",
+  "description": "Learn MST algorithms and the Disjoint Set Union data structure for connectivity problems.",
+  "order": 5,
+  "tasks": [
+    {
+      "title": "Learn MST & Disjoint Set Union",
+      "type": "theory",
+      "estimated_minutes": 50,
+      "order": 1
+    },
+    {
+      "title": "Watch MST & DSU",
+      "type": "video",
+      "estimated_minutes": 60,
+      "order": 2
+    },
+    {
+      "title": "Disjoint Set Union Implementation",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 3
+    },
+    {
+      "title": "Kruskal's Algorithm",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 4
+    },
+    {
+      "title": "Prim's Algorithm",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 5
+    },
+    {
+      "title": "Number of Operations to Make Network Connected",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 35,
+      "order": 6
+    },
+    {
+      "title": "Accounts Merge",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 7
+    },
+    {
+      "title": "Most Stones Removed with Same Row or Column",
+      "type": "practice",
+      "difficulty": "medium",
+      "estimated_minutes": 45,
+      "order": 8
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 9
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Graph Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "Graph Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/graph/",
+      "order": 2
+    }
+  ]
+    },
+    {
+  "title": "Advanced Graph Problems",
+  "description": "Solve advanced graph interview problems involving bridges, articulation points, SCCs, and grid optimization.",
+  "order": 6,
+  "tasks": [
+    {
+      "title": "Learn Advanced Graph Algorithms",
+      "type": "theory",
+      "estimated_minutes": 50,
+      "order": 1
+    },
+    {
+      "title": "Watch Advanced Graph Problems",
+      "type": "video",
+      "estimated_minutes": 60,
+      "order": 2
+    },
+    {
+      "title": "Number of Islands II",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 50,
+      "order": 3
+    },
+    {
+      "title": "Making a Large Island",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 55,
+      "order": 4
+    },
+    {
+      "title": "Critical Connections in a Network",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 60,
+      "order": 5
+    },
+    {
+      "title": "Articulation Points",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 60,
+      "order": 6
+    },
+    {
+      "title": "Kosaraju's Algorithm",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 55,
+      "order": 7
+    },
+    {
+      "title": "Strongly Connected Components",
+      "type": "practice",
+      "difficulty": "hard",
+      "estimated_minutes": 50,
+      "order": 8
+    },
+    {
+      "title": "Revision",
+      "type": "revision",
+      "estimated_minutes": 30,
+      "order": 9
+    }
+  ],
+  "resources": [
+    {
+      "title": "Striver Graph Playlist",
+      "type": "video",
+      "provider": "youtube",
+      "url": "https://www.youtube.com/@takeUforward",
+      "order": 1
+    },
+    {
+      "title": "Graph Problems",
+      "type": "problem",
+      "provider": "leetcode",
+      "url": "https://leetcode.com/tag/graph/",
+      "order": 2
+    }
+  ]
+}
+
+  ]
+}

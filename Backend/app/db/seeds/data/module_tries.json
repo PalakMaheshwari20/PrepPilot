@@ -1,0 +1,152 @@
+{
+  "title": "Tries",
+  "description": "Master Trie data structure and solve interview problems involving prefix search, dictionaries, and bitwise tries.",
+  "order": 16,
+  "topics": [
+    {
+      "title": "Trie Fundamentals",
+      "description": "Learn Trie implementation and solve classic prefix search problems.",
+      "order": 1,
+      "tasks": [
+        {
+          "title": "Learn Trie Theory",
+          "type": "theory",
+          "estimated_minutes": 45,
+          "order": 1
+        },
+        {
+          "title": "Watch Trie Basics",
+          "type": "video",
+          "estimated_minutes": 55,
+          "order": 2
+        },
+        {
+          "title": "Implement Trie (Prefix Tree)",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 40,
+          "order": 3
+        },
+        {
+          "title": "Implement Trie II",
+          "type": "practice",
+          "difficulty": "hard",
+          "estimated_minutes": 50,
+          "order": 4
+        },
+        {
+          "title": "Longest Word with All Prefixes",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 40,
+          "order": 5
+        },
+        {
+          "title": "Complete String",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 40,
+          "order": 6
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 30,
+          "order": 7
+        }
+      ],
+      "resources": [
+        {
+          "title": "Striver Trie Playlist",
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/@takeUforward",
+          "order": 1
+        },
+        {
+          "title": "Trie Problems",
+          "type": "problem",
+          "provider": "leetcode",
+          "url": "https://leetcode.com/tag/trie/",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "title": "Advanced Trie Problems",
+      "description": "Apply Trie to solve string searching and bitwise XOR interview problems.",
+      "order": 2,
+      "tasks": [
+        {
+          "title": "Learn Advanced Trie Patterns",
+          "type": "theory",
+          "estimated_minutes": 45,
+          "order": 1
+        },
+        {
+          "title": "Watch Advanced Trie Problems",
+          "type": "video",
+          "estimated_minutes": 55,
+          "order": 2
+        },
+        {
+          "title": "Word Search II",
+          "type": "practice",
+          "difficulty": "hard",
+          "estimated_minutes": 60,
+          "order": 3
+        },
+        {
+          "title": "Replace Words",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 35,
+          "order": 4
+        },
+        {
+          "title": "Map Sum Pairs",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 40,
+          "order": 5
+        },
+        {
+          "title": "Maximum XOR of Two Numbers in an Array",
+          "type": "practice",
+          "difficulty": "medium",
+          "estimated_minutes": 45,
+          "order": 6
+        },
+        {
+          "title": "Maximum XOR With an Element From Array",
+          "type": "practice",
+          "difficulty": "hard",
+          "estimated_minutes": 60,
+          "order": 7
+        },
+        {
+          "title": "Revision",
+          "type": "revision",
+          "estimated_minutes": 30,
+          "order": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Striver Trie Playlist",
+          "type": "video",
+          "provider": "youtube",
+          "url": "https://www.youtube.com/@takeUforward",
+          "order": 1
+        },
+        {
+          "title": "Trie Problems",
+          "type": "problem",
+          "provider": "leetcode",
+          "url": "https://leetcode.com/tag/trie/",
+          "order": 2
+        }
+      ]
+    }
+  ]
+}
