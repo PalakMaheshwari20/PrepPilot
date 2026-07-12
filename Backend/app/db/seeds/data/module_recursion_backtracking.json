@@ -94,13 +94,13 @@
       "resources": [
         {
           "title": "Striver Recursion Playlist",
-          "type": "YOUTUBE",
+          "type": "youtube",
           "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0qULT3K2WjWkV2n5jN5m8sQ",
           "order": 1
         },
         {
           "title": "LeetCode Recursion Problems",
-          "type": "LEETCODE",
+          "type": "leetcode",
           "url": "https://leetcode.com/tag/recursion/",
           "order": 2
         }
@@ -189,13 +189,13 @@
   "resources": [
     {
       "title": "Striver Recursion Playlist",
-      "type": "YOUTUBE",
+      "type": "youtube",
       "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0qULT3K2WjWkV2n5jN5m8sQ",
       "order": 1
     },
     {
       "title": "LeetCode Recursion Problems",
-      "type": "LEETCODE",
+      "type": "leetcode",
       "url": "https://leetcode.com/tag/recursion/",
       "order": 2
     }
@@ -284,13 +284,13 @@
   "resources": [
     {
       "title": "Striver Recursion Playlist",
-      "type": "YOUTUBE",
+      "type": "youtube",
       "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0qULT3K2WjWkV2n5jN5m8sQ",
       "order": 1
     },
     {
       "title": "LeetCode Backtracking Problems",
-      "type": "LEETCODE",
+      "type": "leetcode",
       "url": "https://leetcode.com/tag/backtracking/",
       "order": 2
     }
@@ -371,13 +371,13 @@
   "resources": [
     {
       "title": "Striver Recursion Playlist",
-      "type": "YOUTUBE",
+      "type": "youtube",
       "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0qULT3K2WjWkV2n5jN5m8sQ",
       "order": 1
     },
     {
       "title": "LeetCode Backtracking Problems",
-      "type": "LEETCODE",
+      "type": "leetcode",
       "url": "https://leetcode.com/tag/backtracking/",
       "order": 2
     }
@@ -458,19 +458,19 @@
   "resources": [
     {
       "title": "Striver Recursion Playlist",
-      "type": "YOUTUBE",
+      "type": "youtube",
       "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0qULT3K2WjWkV2n5jN5m8sQ",
       "order": 1
     },
     {
       "title": "LeetCode Backtracking Problems",
-      "type": "LEETCODE",
+      "type": "leetcode",
       "url": "https://leetcode.com/tag/backtracking/",
       "order": 2
     },
     {
       "title": "GeeksforGeeks Backtracking",
-      "type": "GFG",
+      "type": "gfg",
       "url": "https://www.geeksforgeeks.org/backtracking-algorithms/",
       "order": 3
     }

@@ -86,13 +86,13 @@
       "resources": [
         {
           "title": "Striver String Playlist",
-          "type": "YOUTUBE",
+          "type": "youtube",
           "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk",
           "order": 1
         },
         {
           "title": "LeetCode String Problems",
-          "type": "LEETCODE",
+          "type": "leetcode",
           "url": "https://leetcode.com/tag/string/",
           "order": 2
         }
@@ -181,7 +181,7 @@
   "resources": [
     {
       "title": "Striver String Playlist",
-      "type": "YOUTUBE",
+      "type": "youtube",
       "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk",
       "order": 1
     }
@@ -262,13 +262,13 @@
   "resources": [
     {
       "title": "Striver String Playlist",
-      "type": "YOUTUBE",
+      "type": "youtube",
       "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk",
       "order": 1
     },
     {
       "title": "LeetCode Sliding Window",
-      "type": "LEETCODE",
+      "type": "leetcode",
       "url": "https://leetcode.com/tag/sliding-window/",
       "order": 2
     }
@@ -349,13 +349,13 @@
   "resources": [
     {
       "title": "Striver String Playlist",
-      "type": "YOUTUBE",
+      "type": "youtube",
       "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk",
       "order": 1
     },
     {
       "title": "GeeksforGeeks Pattern Searching",
-      "type": "GFG",
+      "type": "gfg",
       "url": "https://www.geeksforgeeks.org/pattern-searching/",
       "order": 2
     }
@@ -436,13 +436,13 @@
   "resources": [
     {
       "title": "Striver String Playlist",
-      "type": "YOUTUBE",
+      "type": "youtube",
       "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk",
       "order": 1
     },
     {
       "title": "LeetCode String Problems",
-      "type": "LEETCODE",
+      "type": "leetcode",
       "url": "https://leetcode.com/tag/string/",
       "order": 2
     }
