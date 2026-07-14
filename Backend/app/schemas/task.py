@@ -15,3 +15,7 @@ class TaskResponse(BaseModel):
     difficulty: Difficulty | None
 
     model_config = ConfigDict(from_attributes=True)
+
+
+class TaskStatusUpdate(BaseModel):
+    status: TaskStatus

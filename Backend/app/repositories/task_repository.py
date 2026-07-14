@@ -21,3 +21,9 @@ class TaskRepository:
             .filter(Task.id == task_id)
             .first()
         )
+    
+    def update_status(self, task: Task) -> Task:
+        self.db.add(task)
+        self.db.commit()
+        self.db.refresh(task)
+        return task
