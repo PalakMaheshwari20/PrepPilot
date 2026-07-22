@@ -45,7 +45,7 @@ const updateStatus = useUpdateTaskStatus();
         <ListChecks className="h-6 w-6 text-slate-400" />
       </div>
 
-      <div className="flex-1 space-y-5 overflow-y-auto pr-2">
+      <div className="flex-1 space-y-5 overflow-y-auto pr-2 min-w-0">
         <div className="rounded-3xl bg-slate-50 p-5">
           <div className="mb-4 flex items-center justify-between gap-4">
             <h3 className="text-lg font-semibold text-slate-900">{task.title}</h3>
@@ -96,24 +96,37 @@ const updateStatus = useUpdateTaskStatus();
             </div>
           </div>
 
-          <ul className="space-y-3">
-           {resources.map((resource) => (
-  <li
-    key={resource.id}
-    className="rounded-3xl border border-slate-200 bg-white p-4"
-  >
-    <div className="flex items-center justify-between gap-3">
-      <p className="font-medium text-slate-900">
-        {resource.title}
-      </p>
+          <ul className="space-y-3 sm:col-span-2 max-h-64 overflow-auto pr-1">
+  {resources.map((resource) => (
+    <li
+      key={resource.id}
+      className="rounded-3xl border border-slate-200 bg-white transition hover:border-blue-300 hover:shadow-sm"
+    >
+      <a
+        href={resource.url}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="block p-4"
+      >
+        <div className="flex items-center justify-between gap-3">
+          <div className="min-w-0">
+            <p className="truncate font-medium text-blue-600 hover:underline">
+              {resource.title}
+            </p>
 
-      <span className="rounded-full bg-slate-100 px-2 py-1 text-xs text-slate-600">
-        {resource.type}
-      </span>
-    </div>
-  </li>
-))}
-          </ul>
+            <p className="mt-1 text-xs text-slate-500">
+              {resource.provider}
+            </p>
+          </div>
+
+          <span className="rounded-full bg-slate-100 px-2 py-1 text-xs text-slate-600">
+            {resource.type}
+          </span>
+        </div>
+      </a>
+    </li>
+  ))}
+</ul>
         </div>
       </div>
     </section>
